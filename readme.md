@@ -3,7 +3,7 @@
 
 App desenvolvido com React Native
 
-Conteúdo obtito através de aulas no youtube
+Conteúdo obtido através de aulas no youtube
 
 
 ## Screenshots
